@@ -12,6 +12,8 @@ namespace ConsoleApp13
         {
             Console.WriteLine("fdkjkj5555665kj");
             Console.WriteLine("fdkjkj5555665kj");
+            Console.WriteLine("fdkjkj5555665kj");
+            Console.WriteLine("fdkjkj5555665kj");
         }
     }
 }
