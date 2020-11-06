@@ -10,6 +10,8 @@ namespace ConsoleApp13
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fdkjkj5555665kj");
+            Console.WriteLine("fdkjkj5555665kj");
         }
     }
 }
